@@ -1,0 +1,47 @@
+head {
+    background: pink;
+    padding: 80px;
+}
+
+* {
+    padding: 0;
+    margin: 0
+}
+
+.Wrapper {
+    background-size: cover;
+    background: blue;
+    height: 130 vh
+}
+
+.navbar {
+    height: 75px;
+    width: 90%;
+    background: grey;
+}
+
+.logo {
+
+    height: auto;
+    width: 120px;
+    padding: 30px 120px;
+}
+
+.navbar ul {
+    float: right;
+    margin-right: 25px;
+}
+
+.navbar ul li {
+    list-style: none;
+    margin: 0 9px;
+    display: inline-block;
+    line-height: 90px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: beige;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}

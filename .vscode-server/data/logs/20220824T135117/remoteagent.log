@@ -1,0 +1,8 @@
+[2022-08-24 13:51:17.471] [remoteagent] [info] Extension host agent started.
+[2022-08-24 13:51:18.116] [remoteagent] [info] [127.0.0.1][6f0056b1][ManagementConnection] New connection established.
+[2022-08-24 13:51:18.538] [remoteagent] [info] [127.0.0.1][3fc5c3a2][ExtensionHostConnection] New connection established.
+[2022-08-24 13:51:20.219] [remoteagent] [info] [127.0.0.1][3fc5c3a2][ExtensionHostConnection] <2020> Launched Extension Host Process.
+[2022-08-24 14:11:49.183] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-24 14:18:37.497] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-24 14:50:29.582] [remoteagent] [info] [127.0.0.1][6f0056b1][ManagementConnection] The client has reconnected.
+[2022-08-24 14:50:29.645] [remoteagent] [info] [127.0.0.1][3fc5c3a2][ExtensionHostConnection] The client has reconnected.

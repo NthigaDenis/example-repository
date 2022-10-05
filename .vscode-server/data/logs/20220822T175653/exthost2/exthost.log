@@ -1,0 +1,16 @@
+[2022-08-22 17:57:20.645] [exthost] [info] Extension host with pid 7373 started
+[2022-08-22 17:57:20.703] [exthost] [info] Lock '/home/denno/.vscode-server/data/User/workspaceStorage/d7bcebb091f043b365b1b24db251330b/vscode.lock': Lock acquired.
+[2022-08-22 17:57:20.842] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-08-22 17:57:21.031] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-22 17:57:21.046] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-22 17:57:21.062] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-22 17:57:21.113] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-08-22 17:57:21.725] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-22 17:57:22.119] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-22 17:57:23.222] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-22 17:57:23.431] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-22 17:57:23.516] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-22 17:57:24.684] [exthost] [info] Eager extensions activated
+[2022-08-22 22:39:06.670] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-22 22:39:06.670] [exthost] [info] Lock '/home/denno/.vscode-server/data/User/workspaceStorage/d7bcebb091f043b365b1b24db251330b/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-08-22 22:39:06.743] [exthost] [info] Extension host with pid 7373 exiting with code 0

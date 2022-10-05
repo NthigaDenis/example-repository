@@ -1,0 +1,32 @@
+head {
+    background: pink;
+    padding: 80px;
+}
+
+* {
+    padding: 0;
+    margin: 0
+}
+
+.Wrapper {
+    background-size: cover;
+    background: blue;
+    height: 130 vh
+}
+
+.navbar {
+    height: 75px;
+    width: 90%;
+    background: grey;
+}
+
+.logo {
+
+    height: auto;
+    width: 120px;
+    padding: 30px 120px;
+}
+
+.navbar ul {
+    float: right;
+}

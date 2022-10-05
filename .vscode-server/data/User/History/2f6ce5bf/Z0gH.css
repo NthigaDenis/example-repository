@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0
+}
+
+.wrapper {
+    background: url(tugi.jpg) no repeat;
+    background-size: cover;
+    height: 130 vh
+}
+
+.navbar {
+    height: 75px;
+    width: 90%;
+    background: grey;
+}
+
+.logo {
+
+    height: auto;
+    width: 120px;
+    padding: 30px 120px;
+}
+
+.navbar ul {
+    float: right;
+    margin-right: 25px;
+}
+
+.navbar ul li {
+    list-style: none;
+    margin: 0 9px;
+    display: inline-block;
+    line-height: 90px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: beige;
+    font-size: 22px;
+    padding: 8px 16px;
+    font-family: 'Times New Roman', Times, serif;
+    transition: 5ss;
+}
+
+.navbar ul li a.ative,
+
+.navbar ul li a.ative:hover {
+    background: blue;
+    border-radius: 3px;
+}
+
+.wrapper .center {
+    position: absolute;
+    top: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+    user-select: none;
+}
+
+.center h2 {
+    color: bisque;
+    font-weight: bolder;
+    width: 800px;
+    text-align: center;
+}
+
+.center h3 {
+    color: bisque;
+    font-weight: bolder;
+    width: 800px;
+    margin-top: 17px;
+    text-align: center;
+}
+
+.center .buttons {
+    margin: 45px 300px;
+}
+
+.buttons button {
+    height: 75px;
+    width: 160px;
+    font-size: 22px;
+    font-weight: bolder;
+    color: blueviolet;
+    cursor: pointer;
+    border-radius: 30px;
+
+}
+
+.buttons .btn {
+    margin-left: 40px;
+}

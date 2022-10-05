@@ -1,0 +1,18 @@
+[2022-08-24 10:08:38.325] [exthost] [info] Extension host with pid 27268 started
+[2022-08-24 10:08:38.434] [exthost] [info] Lock '/home/denno/.vscode-server/data/User/workspaceStorage/39f0c08302df2ac1e692c4717a5d0d5c/vscode.lock': Lock acquired.
+[2022-08-24 10:08:38.627] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-08-24 10:08:38.851] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-24 10:08:38.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-24 10:08:38.891] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-24 10:08:38.998] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-08-24 10:08:39.641] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-24 10:08:39.920] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-24 10:08:40.775] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-24 10:08:41.045] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-24 10:08:41.095] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-24 10:08:42.125] [exthost] [info] Eager extensions activated
+[2022-08-24 10:29:55.400] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-08-24 10:29:55.408] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:pwa-node'
+[2022-08-24 13:51:11.132] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-24 13:51:11.134] [exthost] [info] Lock '/home/denno/.vscode-server/data/User/workspaceStorage/39f0c08302df2ac1e692c4717a5d0d5c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-08-24 13:51:11.447] [exthost] [info] Extension host with pid 27268 exiting with code 0

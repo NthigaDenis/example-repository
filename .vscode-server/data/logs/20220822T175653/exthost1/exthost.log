@@ -1,0 +1,12 @@
+[2022-08-22 17:56:58.301] [exthost] [info] Extension host with pid 7329 started
+[2022-08-22 17:56:58.503] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-22 17:56:58.546] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-22 17:56:58.566] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-22 17:56:58.735] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-22 17:56:58.965] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-22 17:56:59.320] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-22 17:56:59.377] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-22 17:56:59.396] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-22 17:57:00.015] [exthost] [info] Eager extensions activated
+[2022-08-22 17:57:12.962] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-22 17:57:13.031] [exthost] [info] Extension host with pid 7329 exiting with code 0
